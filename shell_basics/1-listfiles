@@ -1,0 +1,2 @@
+#!/bin/bash #lista de arquivos#
+ls -l
